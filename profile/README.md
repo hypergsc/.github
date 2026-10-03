@@ -6,7 +6,8 @@
 
 [HyperGSC](https://hypergsc.com) connects your Search Console properties to AI assistants
 through a hosted MCP server. Review search performance, compare complete periods,
-find CTR opportunities, and inspect Google's stored indexing observations.
+find CTR and content opportunities, inspect Google's stored indexing observations,
+research competitors and backlink gaps, and evaluate recorded SEO changes.
 
 ## Official integrations
 
@@ -17,14 +18,15 @@ find CTR opportunities, and inspect Google's stored indexing observations.
 
 The repositories include installation instructions, review cases, and automated package
 checks. Directory review is pending. The ChatGPT/Codex package is a preview while its
-dedicated backend deployment and live OAuth verification are completed; see each
+live OAuth verification and platform review are completed; see each
 repository's release status before installing.
 
 ## Get started
 
 Sign in at [hypergsc.com](https://hypergsc.com), connect Google, and choose which
 Search Console properties to share. Follow the integration's setup instructions and
-authorize access using browser OAuth.
+authorize access using browser OAuth. Saving keywords, project context, or SEO change
+records requires optional `projects:write` consent and an explicit request.
 
 The workflows explain dates, data freshness, filters, and coverage. They do not modify
 your website or submit sitemaps. Availability depends on your account's existing
