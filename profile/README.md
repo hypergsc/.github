@@ -25,7 +25,7 @@ repository's release status before installing.
 
 Sign in at [hypergsc.com](https://hypergsc.com), connect Google, and choose which
 Search Console properties to share. Follow the integration's setup instructions and
-authorize access using browser OAuth. Saving keywords, project context, or SEO change
+authorize access using browser OAuth. Saving keywords or SEO change
 records requires optional `projects:write` consent and an explicit request.
 
 The workflows explain dates, data freshness, filters, and coverage. They do not modify
